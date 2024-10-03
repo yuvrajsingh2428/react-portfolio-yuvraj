@@ -26,6 +26,7 @@ const Navbar = () => {
           <a href="https://www.instagram.com/iamnotyuvrajsingh/" target="_blank" rel="noopener noreferrer">
             <FaInstagram />
             </a>
+            
           </div>
        </nav>
     </div>
