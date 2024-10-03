@@ -1,4 +1,4 @@
-import logo from "../assets/yslogo.png"
+import logo from "../assets/info/yslogo.png"
 import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
 
